@@ -1,4 +1,4 @@
-package com.dgmf.java7.catchingmultipleexceptions;
+package com.dgmf.java7.c.catchingmultipleexceptions;
 
 import java.util.logging.Level;
 import java.util.logging.Logger;

@@ -1,4 +1,4 @@
-package com.dgmf.java7.trywithresources;
+package com.dgmf.java7.a.trywithresources;
 
 import java.io.BufferedReader;
 import java.io.File;

@@ -1,10 +1,9 @@
-package com.dgmf.java7.suppressedexceptions;
+package com.dgmf.java7.b.suppressedexceptions;
 
 import java.util.logging.Level;
 import java.util.logging.Logger;
 
-import static com.dgmf.java7.suppressedexceptions.SupressedExceptionsBeforeJava7.beforeJava7;
-import static com.dgmf.java7.suppressedexceptions.SupressedExceptionsWithJava7.withJava7;
+import static com.dgmf.java7.b.suppressedexceptions.SupressedExceptionsWithJava7.withJava7;
 
 public class Main {
     private final static Logger LOGGER =
@@ -16,7 +15,7 @@ public class Main {
      */
     public static void main(String[] args) {
         try {
-            beforeJava7();
+            SupressedExceptionsBeforeJava7.beforeJava7();
         } catch (Exception ex) {
             LOGGER.log(Level.SEVERE, ex.getMessage());
         }

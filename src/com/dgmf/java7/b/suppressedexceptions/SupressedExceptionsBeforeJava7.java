@@ -1,4 +1,4 @@
-package com.dgmf.java7.suppressedexceptions;
+package com.dgmf.java7.b.suppressedexceptions;
 
 import com.dgmf.utils.CustomDirtyResource;
 
