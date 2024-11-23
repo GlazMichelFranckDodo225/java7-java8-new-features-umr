@@ -1,4 +1,4 @@
-package com.dgmf.java7.niofilesanddirectories;
+package com.dgmf.java7.h.niofilesanddirectories;
 
 import java.io.IOException;
 import java.io.InputStream;
