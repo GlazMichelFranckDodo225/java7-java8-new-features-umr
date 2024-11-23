@@ -3,8 +3,7 @@ package com.dgmf.java7.i.watchservice;
 import java.nio.file.*;
 
 public class WatchServiceInJava7 {
-// WatchService : https://www.udemy.com/course/java-7-8-new-featuresenhancements-zero-to-master/learn/lecture/24914710#search
-    
+
     /**
      * @param args
      * @throws Exception
