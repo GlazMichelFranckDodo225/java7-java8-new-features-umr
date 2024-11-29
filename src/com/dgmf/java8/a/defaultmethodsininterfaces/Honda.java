@@ -16,4 +16,10 @@ public class Honda implements Vehicle {
     public void autoPilot() {
         System.out.println("Honda Auto pilot applied");
     }
+
+    static void sayHello() {
+        System.out.println(
+                "Hi, This is your favourite honda car (Static Method inside Honda Class)"
+        );
+    }
 }

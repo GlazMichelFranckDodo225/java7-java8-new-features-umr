@@ -10,5 +10,7 @@ public class VehicleDriverClass {
         System.out.println(honda.getSpeed());
         honda.applyBreak();
         honda.autoPilot();
+        Vehicle.sayHello();
+        Honda.sayHello();
     }
 }
